@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Amali';
+    src: url('/path/to/amali-font.woff2') format('woff2'),
+         url('/path/to/amali-font.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Potha';
+    src: url('/path/to/potha-font.woff2') format('woff2'),
+         url('/path/to/potha-font.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Malithi Web';
+    src: url('/path/to/malithi-web-font.woff2') format('woff2'),
+         url('/path/to/malithi-web-font.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Bashita Complex Sans';
+    src: url('/path/to/bashita-complex-sans-font.woff2') format('woff2'),
+         url('/path/to/bashita-complex-sans-font.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
